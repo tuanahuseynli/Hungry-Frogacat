@@ -1,4 +1,4 @@
-# Hungry-Frogacat
+# Hungry-Frogcat
 Hungry Frogcat is a Python/Pygame twist on the classic Snake game—guide a growing cat to collect heart-shaped treats, dodge obstacles, and beat your high score!
 
 𐙚 Features
